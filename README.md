@@ -12,8 +12,8 @@ Praktikum ini merupakan kegiatan pengembangan aplikasi permainan Tic Tac Toe men
 
 ## Dokumentasi
 UI Utama
-<img width="1220" height="2712" alt="556ecd54-3add-4abb-93d5-1810dba73b90" src="https://github.com/user-attachments/assets/c4829ca4-8355-4e63-890b-90aa45ca7afe" />
+<img width="272" height="598" alt="image" src="https://github.com/user-attachments/assets/a1c6ca89-1c8a-478d-bd1c-dc19c8bab67f" />
 Menang
-<img width="1220" height="2712" alt="8705b20f-144d-4c1a-8f55-dbec702fad66" src="https://github.com/user-attachments/assets/4a6f9dc6-636a-4a27-8723-ac6b899040f4" />
+<img width="270" height="597" alt="image" src="https://github.com/user-attachments/assets/c51ee714-b0b5-4f7b-98ca-92e4fdbb3b59" />
 Seri
-<img width="610" height="1356" alt="9be5b709-4f56-48cb-b26c-2494ff431a5f" src="https://github.com/user-attachments/assets/9ca17a8e-c563-48e8-abbb-68e6c90625f0" />
+<img width="270" height="601" alt="image" src="https://github.com/user-attachments/assets/449d0449-4a22-41bd-a15c-7ff9b4827670" />
