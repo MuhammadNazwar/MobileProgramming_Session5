@@ -1,7 +1,7 @@
 # Tic Tac Toe - Session 5
 
 ## Identitas Mahasiswa
-Muhammad Nazwar Abdillah Putra 41155050240029
+### Muhammad Nazwar Abdillah Putra 41155050240029
 
 ## Deskripsi Project
 <p align="justify">
