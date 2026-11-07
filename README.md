@@ -9,6 +9,7 @@ Praktikum ini merupakan kegiatan pengembangan aplikasi permainan Tic Tac Toe men
 </p>
 
 ## Repository
+src/app/index.tsx
 
 ## Dokumentasi
 UI Utama
